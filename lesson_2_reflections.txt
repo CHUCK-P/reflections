@@ -1,2 +1,6 @@
 What happens when you initialize a repository? Why do you need to do it?
 	a new meta data file is created in order to track versions and history
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	The staging area is a temporary spot to review and seprate work before commiting it to the repository.
+	It's valuable because it allows the developer to avoid adding all files in a working directory
