@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+	a new meta data file is created in order to track versions and history
