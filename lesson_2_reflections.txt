@@ -11,3 +11,6 @@ How can you use the staging area to make sure you have one commit per logical ch
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 	Branches will allow for experimentation on the master code without the risk of muddling up the master code.
 	For instance, if we wanted to experiment through multiple iterations of the control schema, we could do so, repreatedly, without the risk of contaminating the core code before we are satisfied with the new system.
+
+How do the diagrams help you visualize the branch structure?
+	Sometimes it's easy to forget all the changes that have been made leading up to the branch head.  Diagrams will help trace backwards to the branch point and where it deviated from the master code.
