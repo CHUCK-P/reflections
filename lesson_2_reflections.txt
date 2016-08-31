@@ -14,3 +14,7 @@ What are some situations when branches would be helpful in keeping your history 
 
 How do the diagrams help you visualize the branch structure?
 	Sometimes it's easy to forget all the changes that have been made leading up to the branch head.  Diagrams will help trace backwards to the branch point and where it deviated from the master code.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+	The result of merging two branches together is a consolidation of two discreet development paths.  The product is something that is methodically determined to be compatible, even though there might still be bugs to be resolved after the merge.  The diagram allows us to visualize what has been integrated.
+
