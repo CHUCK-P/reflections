@@ -18,3 +18,6 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 	The result of merging two branches together is a consolidation of two discreet development paths.  The product is something that is methodically determined to be compatible, even though there might still be bugs to be resolved after the merge.  The diagram allows us to visualize what has been integrated.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+	The pros of Git's automatice merging mean that a lot of problems associated with integrating two development streams get resolved automatically.  If two developers make changes to the same code, git is good at displaying the code snippets in discreet sections that can easily be resolved.
+	The cons of this are that sometimes blocks of code may not work well together, even though that don't directly conflict.
