@@ -1,0 +1,4 @@
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+	In case you're off line for a while, you can access and do a merge, as time permits.
