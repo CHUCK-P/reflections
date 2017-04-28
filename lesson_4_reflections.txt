@@ -2,3 +2,7 @@
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 	In case you're off line for a while, you can access and do a merge, as time permits.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+	Without using GitHub, version control would be extermely difficult.  Emails and duplicated objects would proliferate.
